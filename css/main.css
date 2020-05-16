@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://img.ibxk.com.br/2019/11/01/01175703058258.jpg?w=1120&h=420&mode=crop&scale=both);
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+    font-family: century gothic;
+    height: 100vh;
+  }
+.menu{
+    background-color: whitesmoke;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: pink;
+}
+  
+.site-title{
+    text-align: center;
+}
